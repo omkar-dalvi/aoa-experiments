@@ -1,1 +1,26 @@
-# aoa-experiments
+# AOA experiments
+The repo contains the following 
+- Sorting
+  - Insertion sort
+  - Merge sort
+  - Quick sort
+- Searching
+  - Binary search
+- String matching
+  - Naive string matching 
+- Greedy  approach
+  - Single source shortest path
+    - Dijkstra's Algorithm
+  - Spaning trees
+    - Prim's Algorithm
+    - Kruskal's Algorithm
+  - Knapsack problem
+- Dynamic Programming
+  - Shortest path algorithms
+    - Single source
+      - Bellman Ford
+    - All pair
+      - Floyd Warshall
+  - Longest Common Subsequence (LCS)
+- Backtracking 
+  - N Queen Problem
